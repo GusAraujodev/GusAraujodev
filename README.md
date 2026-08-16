@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5e9,0284c7,0f172a&height=250&section=header&text=Gustavo%20Araujo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software&descAlignY=58&descSize=22&descColor=e0f2fe" width="100%" alt="Banner animado de Gustavo Araujo" />
+  <img src="https://raw.githubusercontent.com/GusAraujodev/GusAraujodev/main/banner.svg" width="100%" alt="Banner Gustavo Araujo" />
 </div>
 
 <div align="center">
   <i>Java • Spring Boot • React • Arquitetura | Full Stack Developer</i>
   <br><br>
-  
+
   <a href="https://linkedin.com/in/gustavo-araujo-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
