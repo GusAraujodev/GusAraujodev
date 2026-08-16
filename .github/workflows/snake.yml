@@ -1,29 +1,44 @@
-name: Gerar animação de contribuições
+name: 🐍 Gerar Snake de Contribuições
 
 on:
   schedule:
+    # Roda todo dia às 00:00 UTC (21:00 São Paulo)
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
-  gerar:
+  generate_snake:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
+    
     steps:
-      - name: Gerar Snake
+      - name: 📥 Checkout repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Gerar Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: GusAraujodev
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
-      - name: Publicar animação
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+      - name: 📁 Criar pasta output
+        run: |
+          mkdir -p output
+          cp dist/github-contribution-grid-snake-dark.svg output/github-contribution-grid-snake-dark.svg
+          cp dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
+
+      - name: 🔧 Configurar Git
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+      - name: 📤 Commit e Push
+        run: |
+          git add output/ || true
+          git commit -m "🐍 atualizar snake de contribuições" || echo "nada para commitar"
+          git push origin HEAD:${{ github.ref }} || true
