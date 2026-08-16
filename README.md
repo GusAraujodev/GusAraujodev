@@ -21,9 +21,10 @@
 
 ## Sobre Mim
 
-Estou em São Paulo desenvolvendo software de verdade — projetos acadêmicos que parecem startups, soluções que pessoas usam. Trabalho com **Java e Spring Boot** no backend, **React e TypeScript** no frontend, banco de dados, autenticação, arquitetura. O que importa pra mim é **código que funciona**, **arquitetura que escala** e **experiência que não frustra**.
+Sou o Gustavo, desenvolvedor de software formado em Análise e Desenvolvimento de Sistemas, de São Paulo. Trabalho principalmente com Java, Spring Boot, React e TypeScript, criando APIs, aplicações web e soluções que vão além do básico.
 
-Não finjo ser sênior. Sou estudante de ADS (5º semestre) que toma isso sério e aprende rápido. Se você precisa de alguém que pensa em sistemas, não em snippets, é aqui.
+Gosto de aprender na prática, entender como as coisas funcionam e resolver problemas de forma simples. Estou buscando uma oportunidade no mercado tech para colocar minhas habilidades em prática, aprender com um bom time e continuar evoluindo como desenvolvedor.
+
 
 **São Paulo, Brasil**
 
@@ -67,7 +68,7 @@ Começou como projeto acadêmico, virou MVP real. Sistema completo de acompanham
 
 **O que aprendi:** Autenticação de verdade, integração com IA, state management em apps complexos.
 
-→ [Ver repositório](https://github.com/GusAraujodev)
+→ [Ver repositório](https://github.com/GusAraujodev/Evolvy)
 
 ---
 
