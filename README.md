@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5e9,0284c7,0f172a&height=250&section=header&text=Gustavo%20Araujo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software&descAlignY=58&descSize=22&descColor=e0f2fe" width="100%" alt="Banner animado de Gustavo Araujo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&customColorList=0ea5e9,0284c7,0f172a&height=250&section=header&text=Gustavo%20Araujo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software&descAlignY=58&descSize=22&descColor=ffffff" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
@@ -50,11 +50,15 @@ Gosto de aprender na prática, entender como as coisas funcionam e resolver prob
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Ferramentas**  
+**Ferramentas & Metodologias**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAADC?style=flat-square&logo=sap&logoColor=white)
 
 ---
 
@@ -101,36 +105,10 @@ Repositório mantido pelo grupo
 
 ## Próximos Passos
 
-- Consolidar **arquitetura de software** (SOLID, design patterns, clean code)
-- Ir fundo em **Spring Cloud** e microsserviços
-- **DevOps**: Docker, CI/CD, deploy em produção
+- Consolidar arquitetura de software (SOLID, design patterns, clean code)
+- Ir fundo em Spring Cloud e microsserviços
+- DevOps: Docker, CI/CD, deploy em produção
 - Primeira vaga como desenvolvedor profissional
-
----
-
-## Destaques
-
-<div align="center">
-
-| Competência | Portfólio | Escopo | Status |
-|---|---|---|---|
-| Java & Spring Boot | 3 Projetos | Full Stack | Disponível |
-| Backend profissional | Em produção | Do design ao deploy | Para oportunidades |
-
-</div>
-
----
-
-## Linguagens & Tecnologias
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
 
 ---
 
