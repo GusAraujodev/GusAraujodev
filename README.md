@@ -1,144 +1,185 @@
+# Gustavo Araujo
+
+```
+██████╗ ███████╗███████╗███████╗███╗   ██╗██╗   ██╗ ██████╗ ██╗    ██╗███████╗██████╗ 
+██╔════╝ ██╔════╝██╔════╝██╔════╝████╗  ██║██║   ██║██╔═══██╗██║    ██║██╔════╝██╔══██╗
+██║  ███╗█████╗  ███████╗███████╗██╔██╗ ██║██║   ██║██║   ██║██║ █╗ ██║█████╗  ██║  ██║
+██║   ██║██╔══╝  ╚════██║╚════██║██║╚██╗██║╚██╗ ██╔╝██║   ██║██║███╗██║██╔══╝  ██║  ██║
+╚██████╔╝███████╗███████║███████║██║ ╚████║ ╚████╔╝ ╚██████╔╝╚███╔███╔╝███████╗██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═══╝  ╚═══╝   ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═════╝ 
+```
+
 <div align="center">
 
+### Desenvolvedor de Software | Backend • Full Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0EA5E9,100:22D3EE&height=220&section=header&text=GUSTAVO%20ARAUJO&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Backend%20%26%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+```
+> inicializando sistema...
+> desenvolvedor identificado ✓
+> backend carregado ✓  
+> full stack ativo ✓
+STATUS: ONLINE
+```
 
-
-<br>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Inicializando+perfil...;Java+%7C+Spring+Boot+%7C+TypeScript;Desenvolvimento+Backend+%26+Full+Stack;Construindo+solucoes+modernas;Status%3A+Online" alt="Animação de texto" />
-
-
-<br><br>
-
-
-<a href="https://github.com/GusAraujodev">
-<img src="https://img.shields.io/badge/GitHub-GusAraujodev-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
-
-
-<a href="https://www.linkedin.com/in/gustavo-araujo-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Araujo-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-
-
-<a href="mailto:gustavoaraujomoraes.2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-araujo-dev/)
+[![Email](https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gustavoaraujomoraes.2005@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0EA5E9?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511986177243)
 
 </div>
-
 
 ---
 
+## 🔵 Sobre Mim
+
+Sou estudante e desenvolvedor de software em constante evolução. Meu foco é criar soluções reais e escaláveis, trabalhando principalmente com **Backend em Java e Spring Boot**, mas também com desenvolvimento **Full Stack**.
+
+Acredito em **arquitetura sólida, código limpo e experiência do usuário**. Estou em jornada de aprendizado, construindo projetos acadêmicos e reais em paralelo, sem fingir ser sênior — só um desenvolvedor sério que quer crescer.
+
+**Local:** São Paulo, Brasil | **Estudante:** ADS (5º semestre)
+
+---
+
+## 💻 Tecnologias
+
+### Backend
+![Java](https://img.shields.io/badge/Java-0EA5E9?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0EA5E9?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-22D3EE?style=flat-square&logo=spring&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-0EA5E9?style=flat-square&logo=java&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-22D3EE?style=flat-square&logo=fastapi&logoColor=white)
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-22D3EE?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0EA5E9?style=flat-square&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-22D3EE?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-0EA5E9?style=flat-square&logo=vite&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0EA5E9?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-22D3EE?style=flat-square&logo=supabase&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-0EA5E9?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0EA5E9?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-22D3EE?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 1. **Evolvy** — Sistema de Evolução Pessoal
+Plataforma completa de acompanhamento personalizado em **dieta, treino e bem-estar**.
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-22D3EE?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-0EA5E9?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-22D3EE?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0EA5E9?style=flat-square&logo=supabase&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20AI-22D3EE?style=flat-square&logo=google&logoColor=white)
+
+**Funcionalidades:** Autenticação, planos personalizados, integração com IA, acompanhamento de progresso.
+
+📍 Repositório: [Evolvy](https://github.com/GusAraujodev)
+
+---
+
+### 2. **Livraria Gilede Vieira** — E-commerce Completo
+Projeto integrador: **e-commerce de livraria** com backend robusto e frontend responsivo.
+
+**Backend (Java Spring Boot):**  
+![Java](https://img.shields.io/badge/Java-0EA5E9?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0EA5E9?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-22D3EE?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-0EA5E9?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-22D3EE?style=flat-square&logo=mercadopago&logoColor=white)
+
+**Frontend (React TypeScript):**  
+![React](https://img.shields.io/badge/React-22D3EE?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-22D3EE?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Funcionalidades:** Autenticação JWT, CRUD de livros, carrinho, pedidos, favoritos, integração com Mercado Pago, dashboard administrativo.
+
+📍 Backend: [Projeto-Integrador-Gilede-Vieira--BackEnd](https://github.com/GusAraujodev/Projeto-Integrador-Gilede-Vieira--BackEnd)  
+📍 Frontend: [Projeto-Integrador-Gilede-Vieira--FrontEnd](https://github.com/GusAraujodev/Projeto-Integrador-Gilede-Vieira--FrontEnd)
+
+---
+
+### 3. **Comanda Digital** — Pizzaria Full Stack
+Sistema completo de gerenciamento de comanda para pizzaria. **Projeto colaborativo** (código no repositório do grupo).
+
+**Stack:** Java Spring Boot • React • PostgreSQL • Responsivo
+
+**Contribuições:** Backend de pedidos, autenticação, integração com pagamento.
+
+---
+
+### 4. **Pasta de Java** — Aprendizado Contínuo
+Repositório de estudos, exercícios e experimentações em Java. **Secundário — foco em consolidar conceitos**.
+
+📍 [Pasta-Java](https://github.com/GusAraujodev)
+
+---
+
+## 🎯 Objetivos Atuais
+
+```
+┌─────────────────────────────────────┐
+│ > Consolidar conhecimentos Backend   │
+│ > Arquitetura de software           │
+│ > Microsserviços                    │
+│ > DevOps e deployment               │
+│ > Primeiro dev job                  │
+│                                     │
+│ Status: EM DESENVOLVIMENTO ▓▓▓░░░░░ │
+└─────────────────────────────────────┘
+```
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GusAraujodev&show_icons=true&theme=tokyonight&bg_color=0b1220&title_color=0ea5e9&text_color=22d3ee&icon_color=0ea5e9&border_color=0ea5e9&border_radius=10)](https://github.com/GusAraujodev)
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    INICIALIZANDO SISTEMA...                  │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  > desenvolvedor identificado                               │
-│  > backend carregado                                         │
-│  > full stack carregado                                      │
-│  > projetos encontrados                                      │
-│  > aprendizado contínuo ativado                              │
-│                                                              │
-│  STATUS: ONLINE                                              │
-└──────────────────────────────────────────────────────────────┘
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GusAraujodev&layout=compact&theme=tokyonight&bg_color=0b1220&title_color=0ea5e9&text_color=22d3ee&border_color=0ea5e9&border_radius=10)](https://github.com/GusAraujodev)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GusAraujodev&theme=tokyonight&background=0b1220&ring=0ea5e9&fire=0ea5e9&currStreakLabel=22d3ee)](https://github.com/GusAraujodev)
+
 </div>
-Sobre mim
 
-Sou desenvolvedor de software com foco em Backend e Full Stack, interessado em construir aplicações completas, APIs e soluções que unam boas práticas de desenvolvimento, organização e experiência do usuário.
+---
 
-Tenho trabalhado principalmente com Java, Spring Boot, TypeScript, React e PostgreSQL, desenvolvendo projetos acadêmicos e pessoais que envolvem autenticação, APIs REST, bancos de dados, regras de negócio e interfaces web.
+## 🐍 Contribuições
 
-Atualmente, estou focado em evoluir meus conhecimentos em engenharia de software, arquitetura, desenvolvimento backend e construção de aplicações escaláveis.
+![GitHub Contribution Snake](https://raw.githubusercontent.com/GusAraujodev/GusAraujodev/output/github-contribution-grid-snake-dark.svg)
 
-Tecnologias
-Backend
-<div align="left"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" /> </div>
-Frontend
-<div align="left"> <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,vite" /> </div>
-Banco de dados
-<div align="left"> <img src="https://skillicons.dev/icons?i=postgres,supabase" /> </div>
-Ferramentas
-<div align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" /> </div>
-Conhecimentos
-Área	Tecnologias
-Linguagens	Java · TypeScript · JavaScript · SQL
-Backend	Spring Boot · Spring Security · JPA · Hibernate · APIs REST
-Frontend	React · TypeScript · Tailwind CSS · Vite
-Banco de dados	PostgreSQL · Supabase
-Autenticação	JWT · Spring Security
-Ferramentas	Git · GitHub · IntelliJ IDEA · VS Code · Postman
-Desenvolvimento	REST · DTO · Service · Repository · Arquitetura em camadas
-Projetos em destaque
-<table> <tr> <td width="50%" valign="top">
-Evolvy
+---
 
-Plataforma de evolução pessoal com foco em treinos, rotina e acompanhamento.
+## 📞 Contato
 
-Projeto com interface moderna, responsiva e experiência de usuário pensada para tornar o processo de evolução pessoal mais simples e motivador.
+<div align="center">
 
-Tecnologias
+Vamos conversar? 👋
 
-React TypeScript Tailwind CSS Framer Motion Vite
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-araujo-dev/)
+[![Email](https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gustavoaraujomoraes.2005@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0EA5E9?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511986177243)
 
-<br> <a href="https://github.com/GusAraujodev/Evolvy"> <img src="https://img.shields.io/badge/Ver%20projeto-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
-Livraria Gilede Vieira
+**Localização:** São Paulo, Brasil 🇧🇷
 
-Sistema completo para gerenciamento e operação de uma livraria.
+</div>
 
-O projeto possui autenticação JWT, catálogo de livros, pedidos, favoritos, notificações, dashboard administrativo e integração com PostgreSQL.
+---
 
-Tecnologias
+<div align="center">
 
-Java Spring Boot PostgreSQL JPA Hibernate JWT
+### Feito com 💙 por Gustavo Araujo
 
-<br> <a href="https://github.com/GusAraujodev/Projeto-Integrador-Gilede-Vieira--BackEnd"> <img src="https://img.shields.io/badge/Backend-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://github.com/GusAraujodev/Projeto-Integrador-Gilede-Vieira--FrontEnd"> <img src="https://img.shields.io/badge/Frontend-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
-Comanda Digital
+*"Código limpo, soluções reais, evolução contínua."*
 
-Sistema Full Stack desenvolvido em equipe para gerenciamento de pedidos de uma pizzaria.
-
-Participei do desenvolvimento do projeto, trabalhando em funcionalidades do sistema, integração entre frontend e backend e regras relacionadas ao fluxo de pedidos.
-
-Tecnologias
-
-Full Stack REST API Banco de dados Web
-
-</td> <td width="50%" valign="top">
-Pasta de Java
-
-Repositório utilizado para estudos, exercícios e experimentações em Java.
-
-Um espaço para consolidar conhecimentos de programação e desenvolvimento orientado a objetos.
-
-<br> <a href="https://github.com/GusAraujodev/PastaDeJava"> <img src="https://img.shields.io/badge/Ver%20repositório-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table>
-Objetivos atuais
-┌──────────────────────────────────────────────────────────────┐
-│                     OBJETIVOS ATUAIS                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [✓] Evoluir em Java e Spring Boot                          │
-│  [✓] Desenvolver aplicações Full Stack                       │
-│  [✓] Trabalhar com APIs REST                                 │
-│  [✓] Desenvolver sistemas com banco de dados                 │
-│  [✓] Construir projetos completos                            │
-│  [→] Aprofundar arquitetura de software                      │
-│  [→] Evoluir em desenvolvimento Backend                      │
-│  [→] Expandir meu portfólio                                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-Estatísticas do GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusAraujodev&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusAraujodev&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&langs_count=8"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=GusAraujodev&theme=transparent&hide_border=true&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"/> </div>
-Atividade no GitHub
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GusAraujodev&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=22D3EE&area=true&hide_border=true" width="100%"/> </div>
-Conquistas
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=GusAraujodev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/> </div>
-Vamos conversar
-<div align="center"> <a href="https://www.linkedin.com/in/gustavo-araujo-dev/"> <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Araujo-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:gustavoaraujomoraes.2005@gmail.com"> <img src="https://img.shields.io/badge/Email-Contato-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/GusAraujodev"> <img src="https://img.shields.io/badge/GitHub-GusAraujodev-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0EA5E9,100:0B1220&height=120&section=footer" width="100%"/> </div> ```
+</div>
