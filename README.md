@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GusAraujodev/GusAraujodev/main/banner.svg" width="100%" alt="Banner Gustavo Araujo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e3a8a,0284c7,0ea5e9,38bdf8&height=250&section=header&text=Gustavo%20Araujo&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20de%20Software&descAlignY=58&descSize=22&descColor=e0f2fe" width="100%" alt="Banner Gustavo Araujo" />
 </div>
 
 <div align="center">
@@ -18,7 +18,6 @@
 </div>
 
 <br>
-
 ## Sobre Mim
 
 Estou em São Paulo desenvolvendo software de verdade — projetos acadêmicos que parecem startups, soluções que pessoas usam. Trabalho com **Java e Spring Boot** no backend, **React e TypeScript** no frontend, banco de dados, autenticação, arquitetura. O que importa pra mim é **código que funciona**, **arquitetura que escala** e **experiência que não frustra**.
