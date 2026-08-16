@@ -118,7 +118,7 @@ Sistema de gerenciamento de comanda para pizzaria. Projeto colaborativo desenvol
 
 ## Contribuições
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/GusAraujodev/GusAraujodev/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/GusAraujodev/GusAraujodev/main/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
