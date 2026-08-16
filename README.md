@@ -25,7 +25,6 @@ Sou o Gustavo, desenvolvedor de software formado em Análise e Desenvolvimento d
 
 Gosto de aprender na prática, entender como as coisas funcionam e resolver problemas de forma simples. Estou buscando uma oportunidade no mercado tech para colocar minhas habilidades em prática, aprender com um bom time e continuar evoluindo como desenvolvedor.
 
-
 **São Paulo, Brasil**
 
 ---
@@ -43,6 +42,7 @@ Gosto de aprender na prática, entender como as coisas funcionam e resolver prob
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
@@ -60,7 +60,7 @@ Gosto de aprender na prática, entender como as coisas funcionam e resolver prob
 
 ## Projetos
 
-### **Evolvy** — Plataforma de Evolução Pessoal
+### Evolvy — Plataforma de Evolução Pessoal
 
 Começou como projeto acadêmico, virou MVP real. Sistema completo de acompanhamento em dieta, treino e bem-estar. Você coloca seus dados, a IA (Gemini) gera planos personalizados, você acompanha progresso em tempo real.
 
@@ -72,7 +72,7 @@ Começou como projeto acadêmico, virou MVP real. Sistema completo de acompanham
 
 ---
 
-### **Livraria Gilede Vieira** — E-commerce Profissional
+### Livraria Gilede Vieira — E-commerce Profissional
 
 Projeto integrador (trabalho acadêmico + real). E-commerce completo de livraria com backend robusto e frontend responsivo. Integra com Mercado Pago, tem autenticação, painel administrativo, tudo funcionando.
 
@@ -86,14 +86,16 @@ Projeto integrador (trabalho acadêmico + real). E-commerce completo de livraria
 
 ---
 
-### **Comanda Digital** — Full Stack (Trabalho em Grupo)
+### Comanda Digital — Full Stack (Trabalho em Grupo)
 
-Sistema de gerenciamento de comanda para pizzaria. Projeto colaborativo desenvolvido em equipe. Minha contribuição: backend de pedidos, autenticação, pagamento integrado.
+Sistema de gerenciamento de comanda para pizzaria. Projeto colaborativo em equipe.
 
-**Stack:** Java • React • PostgreSQL  
-**Papel:** Backend e integração com APIs de pagamento
+**Minha contribuição:** Frontend — Design das telas, animações e interações usando Angular. Trabalho focado em experiência do usuário e interface responsiva.
 
-⚠️ *Repositório mantido pelo grupo*
+**Stack:** Java • Angular • PostgreSQL  
+**Tecnologias Frontend:** Angular • TypeScript • CSS3 com Animações
+
+Repositório mantido pelo grupo
 
 ---
 
@@ -106,15 +108,27 @@ Sistema de gerenciamento de comanda para pizzaria. Projeto colaborativo desenvol
 
 ---
 
-## Estatísticas
+## Destaques
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GusAraujodev&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=475569&border_radius=10)](https://github.com/GusAraujodev)
+| Competência | Portfólio | Escopo | Status |
+|---|---|---|---|
+| Java & Spring Boot | 3 Projetos | Full Stack | Disponível |
+| Backend profissional | Em produção | Do design ao deploy | Para oportunidades |
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GusAraujodev&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&border_color=475569&border_radius=10)](https://github.com/GusAraujodev)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GusAraujodev&theme=tokyonight&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=E2E8F0&border_radius=10)](https://github.com/GusAraujodev)
+---
+
+## Linguagens & Tecnologias
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -134,6 +148,6 @@ Sistema de gerenciamento de comanda para pizzaria. Projeto colaborativo desenvol
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoaraujomoraes.2005@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511986177243)
 
-**São Paulo, Brasil** • [LinkedIn](https://linkedin.com/in/gustavo-araujo-dev/) • [Email](mailto:gustavoaraujomoraes.2005@gmail.com)
+**São Paulo, Brasil**
 
 </div>
