@@ -68,7 +68,7 @@ Começou como projeto acadêmico, virou MVP real. Sistema completo de acompanham
 
 **O que aprendi:** Autenticação de verdade, integração com IA, state management em apps complexos.
 
-→ [Ver repositório](https://github.com/GusAraujodev/Evolvy)
+→ [Conheça Evolvy](https://evolvy.vercel.app)
 
 ---
 
